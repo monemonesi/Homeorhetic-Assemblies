@@ -20,3 +20,11 @@ http://papers.cumincad.org/data/works/att/ecaade2016_091.pdf
 https://vimeo.com/160790451
 https://issuu.com/mone.monesi/docs/homeorhetic_assemblies_it
 http://emergent-behaviors.blogspot.co.uk/
+
+
+
+in my TODO list in the spare time of the spare time for version 2.0:
+_switch from processing to java project in Eclipse
+_add unit test for the main methods and classes
+_rewrite with cleaner code and Java Standards
+_improve perfomance
